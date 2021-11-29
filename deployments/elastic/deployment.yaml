@@ -20,3 +20,4 @@ spec:
         image: elasticsearch:7.14.2
         ports:
         - containerPort: 9200
+        - containerPort: 9300
